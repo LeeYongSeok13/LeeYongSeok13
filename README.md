@@ -1,94 +1,48 @@
-<div align="center">
+<div align="center">LEE YONG SEOK
+WEB PUBLISHER · FRONTEND DEVELOPER
 
-# `> Hello, World!_` 👋
+사용자의 시선에서 화면을 설계하고, 오래 유지할 수 있는 코드로 구현합니다.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Lee+Yong+Seok+%7C+Frontend+Developer;Web+Publisher+%26+UI+Developer;Building+better+web+experiences" alt="개발자 소개 타이핑 애니메이션" />
+Semantic Web  ·  Responsive UI  ·  User Experience
+</div>01 / PROFILE <sub>— 만드는 방식</sub>
+보기 좋은 화면에서 멈추지 않고, 사용하기 편하고 수정하기 쉬운 웹을 만듭니다.
 
-**사용자 경험을 고민하고, 유지보수하기 좋은 코드를 작성하는 개발자입니다.**
+컴퓨터공학을 전공하고 웹 퍼블리싱과 프론트엔드 개발을 공부했습니다.
+HTML·CSS·JavaScript를 기반으로 반응형 UI를 구현하며, React와 데이터베이스 연동 프로젝트를 통해 웹 서비스의 구조를 익혔습니다.
+- 구조 — 의미 있는 마크업과 재사용 가능한 구성
+- 경험 — 다양한 화면 크기와 사용자 흐름 고려
+- 협업 — 역할 분담, 의견 조율, 문제 해결 경험
+02 / TOOLKIT <sub>— 사용하는 기술</sub>
+Interface
+<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery&theme=dark" alt="HTML, CSS, JavaScript, React, jQuery" />
+HTML CSS JavaScript React jQuery
 
-</div>
+Server & Data · 프로젝트 및 학습 경험
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Node.js, Express, MySQL" />
+Node.js Express MySQL Sequelize
 
----
+Design & Workflow
+<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode&theme=dark" alt="Figma, Photoshop, Git, GitHub, VS Code" />
+Figma Photoshop Git GitHub VS Code
+<details>
+<summary><b>더 알아보기 — 학습 중인 언어</b></summary>
+<br />
+C Python Java
+</details>03 / SELECTED WORK <sub>— 직접 만든 것들</sub>
+프로젝트	구현 내용	기술
+Frontend Portfolio	개인 포트폴리오 · 반응형 레이아웃 · 섹션 인터랙션	HTML CSS JavaScript
+CHANEL Redesign	브랜드 웹사이트 재구성 · 상품 카테고리 · 캐러셀 UI	HTML CSS JavaScript jQuery
+Team Web Projects	쇼핑몰 · 스터디 기록 · 매칭 서비스 등 팀 프로젝트	JavaScript React DB
 
-### `➜ ~ whoami`
 
-```bash
-$ cat about.txt
-이름       : 이용석 (Lee Yong Seok)
-관심 분야  : 웹 퍼블리싱 · 프론트엔드 · 웹 UI 개발
-핵심 가치  : 사용자 경험 · 반응형 웹 · 시맨틱 마크업 · 유지보수
-학습 방향  : 인터랙티브 UI와 웹 서비스 개발 역량 확장
-```
+프로젝트별 저장소 및 배포 주소는 공개 준비 후 연결할 예정입니다.
 
-### `➜ ~ cat developer.json`
-
-```json
-{
-  "name": "Lee Yong Seok",
-  "role": ["Web Publisher", "Frontend Developer"],
-  "education": "동서대학교 컴퓨터공학과 졸업",
-  "interests": ["UI/UX", "Responsive Web", "Web Accessibility"],
-  "learning": ["React", "Node.js", "Database Integration"]
-}
-```
-
-### `➜ ~ ls ./skills`
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery&theme=dark" alt="HTML CSS JavaScript React jQuery" />
-
-**Backend · Database (학습 및 프로젝트 경험)**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Node.js Express MySQL" />
-
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark" alt="C Python Java" />
-
-**Design · Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode&theme=dark" alt="Figma Photoshop Git GitHub VS Code" />
-
-### `➜ ~ ls ./projects`
-
-| 프로젝트 | 소개 | 주요 기술 |
-| :--- | :--- | :--- |
-| **Frontend Portfolio** | 반응형 개인 포트폴리오, 섹션별 UI 및 인터랙션 구성 | HTML · CSS · JavaScript |
-| **CHANEL Website Redesign** | 브랜드 사이트 리디자인, 상품 카테고리 및 인터랙티브 UI | HTML · CSS · JavaScript · jQuery |
-| **Team Web Projects** | 쇼핑몰, 스터디 기록 서비스, React 기반 매칭 프로젝트 등 팀 협업 경험 | JavaScript · React · DB 연동 |
-
-> 🔗 프로젝트별 GitHub 저장소와 배포 링크는 준비되는 대로 연결할 예정입니다.
-
-### `➜ ~ git log --stat`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&locale=kr" alt="GitHub 활동 통계" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&locale=kr" alt="주요 사용 언어 통계" />
-
-</div>
-
-> 통계 이미지는 외부 서비스의 상태 및 공개 저장소 데이터에 따라 표시되지 않거나 실제 역량과 다르게 보일 수 있습니다.
-
-### `➜ ~ ./contact.sh`
-
-```bash
-$ echo "함께 더 나은 웹 경험을 만들고 싶습니다."
-함께 더 나은 웹 경험을 만들고 싶습니다.
-```
-
-- **GitHub**: https://github.com/YOUR_USERNAME
-- **Portfolio**: 배포 링크 추가 예정
-
----
-
-<div align="center">
-
-`Thanks for visiting!` · `Keep learning, keep building.`
-
-</div>
-
-<div align="center">Thanks for visiting! · Keep learning, keep building.
+04 / CURRENTLY <sub>— 지금 집중하는 것</sub>
+[ IN PROGRESS ]  개인 포트폴리오 고도화
+[ LEARNING    ]  프론트엔드 설계와 인터랙션
+[ INTERESTED  ]  웹 접근성 · 반응형 UI · 유지보수
+05 / CONNECT <sub>— 작업과 기록</sub>
+- GitHub — 지금 보고 있는 프로필의 Repositories 탭에서 프로젝트를 확인할 수 있습니다.
+- Portfolio — 배포 주소 공개 후 추가 예정
+<div align="center"><sub>DESIGN WITH PURPOSE · BUILD WITH CARE</sub>
 </div>
